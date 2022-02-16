@@ -1,2 +1,2 @@
-# data-science-itp-analysis
-Projeto de ciência de dados: Análise de dados abertos da UFRN e aprendizado não supervisionado
+# data-science-dados-abertos-ufrn-analysis
+Projeto extendido do trabalho final de Ciência de Dados (IMD1151) @ UFRN: Análise de Dados Abertos da UFRN
